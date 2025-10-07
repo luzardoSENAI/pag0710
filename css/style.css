@@ -1,0 +1,24 @@
+:root {
+  --vinho: #7E2F32;
+  --laranja: #E48044;
+  --azul: #20364D;
+  --bege: #EDDCCA;
+  --offwhite: #E6DDD8;
+}
+
+body {
+  background-color: var(--offwhite);
+}
+
+.text-primary {
+  color: var(--vinho) !important;
+}
+
+.btn-primary {
+  background-color: var(--laranja);
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: var(--vinho);
+}
