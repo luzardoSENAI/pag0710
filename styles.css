@@ -1,0 +1,28 @@
+h5 {
+    margin-top: 0;
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #000000;
+
+
+}
+
+.carousel-senai {
+    position: absolute;
+    right: 15%;
+    bottom: 1.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: var(--bs-carousel-caption-color);
+    text-align: center
+}
+
+.btn-senai{
+    background-color: #0b4daf;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    
+}
